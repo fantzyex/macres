@@ -1,0 +1,1380 @@
+@media only screen and (max-width: 1920px) {
+  #id-imgempr {
+    float: right;
+  }
+
+  #carousel-produtos .link-br {
+    margin-bottom: 20px;
+    z-index: 10;
+  }
+
+  #carousel-ofertas .link-br {
+    margin-bottom: 20px;
+    z-index: 10;
+    margin-top: 15px;
+  }
+
+  #carousel-servicos .link-br {
+    top: -61px;
+    margin-bottom: 0px;
+    z-index: 10;
+  }
+
+  #carousel-servicos .link-re {
+    margin-top: 20px;
+    margin-bottom: 35px;
+    top: 0;
+  }
+
+  #id-clientes .link-br {
+    margin-bottom: 35px;
+  }
+
+}
+
+@media only screen and (max-width: 1800px){
+  #fotosList a:hover div.img-center i, 
+  #fotosList a:active div.img-center i, 
+  #fotosList a:focus div.img-center i{
+    font-size: 5.5em;   
+    top: 28%;
+  }
+
+  .stl-button-fotos i{
+    padding: 25.15% 0 11px;
+  }
+}
+
+@media only screen and (max-width: 1782px){
+  #lista-cards ul{
+
+    padding: 16px 28px 27px;
+
+  }
+}
+
+@media only screen and (max-width: 1700px){
+  #fotosList a:hover div.img-center i, 
+  #fotosList a:active div.img-center i, 
+  #fotosList a:focus div.img-center i{
+    font-size: 5.5em;   
+    top: 28%;
+  }
+
+  .stl-button-fotos i{
+    font-size: 3.3em;
+    padding: 30.15% 0 11px;
+  }
+}
+
+@media only screen and (max-width: 1600px){
+  #fotosList a:hover div.img-center i, 
+  #fotosList a:active div.img-center i, 
+  #fotosList a:focus div.img-center i{
+    font-size: 5em;
+    top: 27%;
+  }
+
+  .stl-button-fotos i{
+    padding: 27.15% 0 11px;
+  }
+}
+
+@media only screen and (max-width: 1500px) {
+  #lista-cards ul{
+    padding: 15px 22px 25px;
+  }
+
+  .stl-button-fotos i{
+    font-size: 2.8em;
+    padding: 28.15% 0 11px;
+  }
+}
+
+@media only screen and (max-width: 1400px) {
+  #fotosList a:hover div.img-center i, 
+  #fotosList a:active div.img-center i, 
+  #fotosList a:focus div.img-center i{
+    font-size: 4.2em;
+    top: 29%;
+  }
+
+  .stl-button-fotos i{
+    padding: 31.15% 0 11px;
+  }
+
+  .stl-button-fotos div{
+    font-size: 1.2em!important;
+  }
+}
+
+@media only screen and (max-width: 1366px) {
+  #logomarca-menu .col-lg-4{
+    margin-left:4%;
+  }
+
+  #logomarca-menu .col-lg-7{
+    width: 62%;
+  }
+
+  .unav a{
+    padding: 41px 9px 33px;
+  }
+}
+
+@media only screen and (max-width: 1350px) {
+  #lista-cards ul{
+    padding: 15px 12px 26px;
+  }
+}
+
+@media only screen and (max-width: 1300px){
+  .stl-button-fotos i{
+    padding: 28.15% 0 11px;
+  }
+
+  #box-hr-atendimento-pagamento-contato-redes .title-footer{
+
+    font-size: 1.5em;
+  }
+
+}
+
+@media only screen and (max-width: 1280px) {
+  .logo {
+    float: none;
+    display: block;
+  }
+
+  .menu-btn {
+    display: inline-block;
+  }
+
+  .dropdown-backdrop {
+    display: none;
+  }
+
+  .menu__item {
+    display: block;
+    float: none;
+    -webkit-transform: translateX(-100%);
+    -moz-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    -o-transform: translateX(-100%);
+    transform: translateX(-100%);
+    transition: all .3s ease-out;
+    padding: 0;
+  }
+
+  .menu__item--play {
+    display: block;
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+    transform: translateX(0);
+  }
+
+  .menu__link {
+    display: block;
+    padding: 0;
+    font-size: 1.2em;
+  }
+
+
+  .f-nav .menu__play {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+    -moz-transition: all .4s;
+    -o-transition: all .4s;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+    padding-bottom: 90px;
+  }
+
+  .f-nav .menu__item {
+    padding: 0;
+  }
+
+  .menu-resp .dropdown-sub li a {
+    color: #fff;
+    text-align: center;
+  }
+
+  #id-menu .dropdown-sub li a {
+    margin: 6px 15px;
+    border-radius: 3px;
+    font-size: 1.2em;
+  }
+
+  .menu-resp .open .dropdown-sub {
+    display: contents;
+  }
+
+  .menu-resp .open .dropdown-sub li:first-of-type {
+    margin-top: 15px;
+  }
+
+  .menu-resp .open .dropdown-sub li:last-of-type {
+    margin-bottom: 15px;
+  }
+
+  .menu__link,
+  .menu-resp .dropdown-sub > li > a {
+    font-size: 1.4em;
+  }
+
+  .menu-resp .dropdown-sub {
+    padding: 10px 0;
+  }
+
+  .menu-resp .dropdown-sub {
+    float: none;
+    position: relative;
+    padding: 10px 0;
+    margin: 0;
+    top: 0;
+  }
+
+  .menu__list {
+    height: 0;
+  }
+
+  .menu__play .menu__list {
+    height: auto;
+  }
+
+  .navbar-collapse {
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  }
+
+  #id-menu nav div ul li a {
+    background-color: #615992;
+  }
+
+  #id-menu .dropdown-sub li a {
+    background-color: #5b5295;
+  }
+
+  .menu-resp .open a {
+    background-color: #766eb3;
+  }
+
+  #id-menu .dropdown-sub li a:hover,
+  #id-menu .dropdown-sub li a:active,
+  #id-menu .dropdown-sub li a:focus {
+    background-color: #766eb3;
+  }
+
+  .menu__link {
+    background: #524a8a;
+  }
+
+  .menu__link:hover,
+  .menu__link:focus,
+  .menu__link:active,
+  .menuactive {
+    background: #766eb3;
+  }
+
+  .menu__link {
+    border-bottom: 1px #372e73 solid;
+  }
+
+  .menu-resp .dropdown-sub {
+    background-color: #372e73;
+  }
+
+}
+
+@media only screen and (max-width: 1199px) {
+
+  #logomarca-menu .col-lg-4{
+    margin-left: 0;
+  }
+
+  #logomarca-menu .col-lg-7{
+    width: 100%;
+    padding: 0;
+  }
+
+  .unav-item:hover .unav-item-box, 
+  .unav-item.active .unav-item-box, 
+  .unav-item:focus .unav-item-box{
+    top: 40px;
+  }
+
+  .unav nav{
+    text-align: center;
+  }
+
+  .unav a{
+  }
+
+  .title-banner h2, .title-banner a h2{
+    font-size: 2.1em;
+  }
+
+  .title-banner,
+  .border-bottom-banner{
+    min-height: auto;
+    left: 17%;
+  }
+
+  #id-banners{
+    top: 0;
+    margin-bottom: 0;
+  }
+
+  #logomarca-menu{
+    background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, .08), rgba(255, 255, 255, .08));
+    background-image: -moz-linear-gradient(bottom, rgba(0, 0, 0, .08), rgba(255, 255, 255, .08));
+    background-image: -o-linear-gradient(bottom, rgba(0, 0, 0, .08), rgba(255, 255, 255, .08));
+    background-image: -ms-linear-gradient(bottom, rgba(0, 0, 0, .08), rgba(255, 255, 255, .08));
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0.08), rgb(169, 169, 169));
+  }
+
+  #id-menu{
+    background-color: #db1f28;
+  }
+
+  .unav a, .unav .unav-item{
+    padding-top: 7px;
+  }
+
+  .unav-item:hover .unav-item-box, 
+  .unav-item.active .unav-item-box, 
+  .unav-item:focus .unav-item-box{
+    background-color: #ccc;
+  }
+
+  .unav-item:hover div a, 
+  .unav-item.active div a, 
+  .unav-item:focus div a{
+    background-color: #ccc;
+    color: #636363;
+  }
+
+  .unav-dropdown-menu a:hover, 
+  .unav-dropdown-menu a.active{
+    background-color: #6f6f6f!important;
+  }
+
+  #navigation{
+    background-color: #929292;
+  }
+
+  #navigation a[title="Compartilhar"],
+  #navigation a[title="Whatsapp"] {
+    padding: 0 7px;
+  }
+
+  #navigation a[title="Compartilhar"]:hover,
+  #navigation a[title="Compartilhar"]:active,
+  #navigation a[title="Compartilhar"]:hover,
+  #navigation a[title="Whatsapp"]:hover,
+  #navigation a[title="Whatsapp"]:active,
+  #navigation a[title="Whatsapp"]:focus{
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .unav nav{
+    top: 21px;
+    height: 43px;
+  }
+
+  #atendimento .dec-box-footer, 
+  #contato-footer .dec-box-footer,
+  #pagamento .dec-box-footer, 
+  #redes-footer .dec-box-footer{
+    max-width: 92%;
+  }
+
+  #atendimento .dec-subbox-footer, 
+  #contato-footer .dec-subbox-footer{
+    width: calc(100% - 30px);
+    margin-left: 0;
+  }
+
+  #endereco{
+    padding-top: 52px;
+    padding-bottom: 10px;
+  }
+
+  #localizacao-endereco .owl-theme .owl-nav{
+    margin-bottom: 15px;
+  }
+
+  #lista-cards ul{
+    padding: 25px 0 0;
+  }
+
+  #servicosList{
+    width: 100%;
+  }
+
+  #servicos{
+    padding: 4% 0;
+    margin-top: 34px;
+    background-color: #e6e6e6;
+  }
+
+  .listagem-personalizada .item{
+    padding: 0;
+  }
+
+  #empresa .stl-title{
+    text-align: center;
+  }
+
+  #servicosList .owl-nav,
+  #produtosList .owl-nav{
+    display: block;  
+    position: relative;  
+    margin: 0;   
+    width: auto;
+  }
+
+  #servicosList .owl-nav [class*=owl-],
+  #produtosList .owl-nav [class*=owl-]{
+    margin: 05px;
+  }
+
+  .listagem-personalizada .item:hover .btn-saimais .bd-bottom, 
+  .listagem-personalizada .item:focus .btn-saimais .bd-bottom, 
+  .listagem-personalizada .item:active .btn-saimais .bd-bottom{
+    display: none;
+  }
+
+  .listagem-personalizada .item:hover .btn-saimais, 
+  .listagem-personalizada .item:focus .btn-saimais, 
+  .listagem-personalizada .item:active .btn-saimais{
+    margin-top: -22px;
+  }
+
+  .listagem-personalizada .item .btn-saimais .link-btn{
+    padding: 9px 12px;
+  }
+
+  .listagem-personalizada .item:hover .descrition-link, 
+  .listagem-personalizada .item:focus .descrition-link, 
+  .listagem-personalizada .item:active .descrition-link{
+    padding: 25px 7% 25px;
+    margin-top: -141px;
+  }
+
+  #fotosList{
+    padding: 0 3%;
+  }
+
+  #fotosList a:hover div.img-center i, 
+  #fotosList a:active div.img-center i, 
+  #fotosList a:focus div.img-center i{
+    right: 0;
+    width: auto;
+    top: auto;
+    padding: 17px 20px;
+    display: flex;
+  }
+
+  .stl-button-fotos div{
+    padding-bottom: 0;
+
+  }
+
+  .stl-button-fotos i{
+    font-size: 1.6em;
+    padding: 11px 5px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  #endereco address{
+    margin-bottom: 30px;
+  }
+
+  .stl-button-fotos div{
+    margin-top: 20px;
+  }
+
+  .banner-subpaginas {
+    margin-bottom: 35px!important;
+  }
+
+  #atendimento-brasil{
+    margin-bottom: 65px;
+  }
+
+  #videos-fotos{
+    padding-bottom: 0;
+  }
+
+  #localizacao-endereco{
+    position: relative;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+
+  .unav a, .unav .unav-item{
+    padding-bottom: 10px;
+  }
+
+  .unav-item {
+    display: block;
+    text-align: center;
+  }
+
+  .unav-dropdown.is-active {
+    display: inline-block;
+  }
+
+  .unav nav, .unav-burger-open {
+    background-color: rgb(160, 160, 160);
+  }
+
+  .unav-burger{
+    background-color: #2b2b2a;
+    border-radius: 8px;
+    width: 100%;
+  }
+
+  .unav-burger span::before,
+  .unav-burger span::after,
+  .unav-burger span{
+    background-color: #fff;
+  }
+
+  .unav-burger-open span{
+    background-color: #2b2b2a;
+  }
+
+  .unav nav{
+    padding: 0;
+  }
+
+  .unav nav {
+    width: 250px;
+    overflow-x: auto;
+    height: auto;
+    top: 69px;
+  }
+
+  .unav {
+    padding: 10px;
+  }
+
+  #navigation {
+    background-color: rgba(44, 42, 49, 0);
+    z-index: 9999;
+    position: fixed;
+    height: 72px;
+    width: 72px;
+    display: inline-block;
+    margin-left: 0;
+  }
+
+
+  .unav-item:hover span, 
+  .unav-item:active span, 
+  .unav-item:focus span{
+    border: none;
+  }
+
+  #menu a:hover, 
+  #menu a:focus, 
+  #menu a:active{
+    background-color: #717171;
+  }
+
+  #menu a:hover span, 
+  #menu a:focus span, 
+  #menu a:active span{
+    color: #fff;
+  }
+
+  .unav a,
+  .unav div{
+    padding: 8px 12px;
+    border-bottom: 1px #e1e6ea solid;
+    transition: 0.5s;
+  }
+
+  .unav a, 
+  .unav .unav-item{
+    padding: 9px 0;
+  }
+
+  .unav-item-box{
+    padding: 0!important;
+  }
+
+  .unav-item:hover div a, 
+  .unav-item.active div a, 
+  .unav-item:focus div a{
+    border: none;
+    padding: 5px 10px;
+  }
+
+  .unav .unav-item[title="Galeria"]{
+    padding: 7px 0 0 0;
+  }
+
+  .unav .unav-item[title="Galeria"] span{
+    padding-bottom: 10px;
+    display: block;
+  }
+
+  .unav .unav-item[title="Galeria"]:hover,
+  .unav .unav-item[title="Galeria"]:focus,
+  .unav .unav-item[title="Galeria"]:active{
+    border: none;
+  }
+
+  #menu a[title="Fale Conosco"]{
+    margin-bottom: 15px;
+  }
+
+  #menu a[title="Curtir"], 
+  #menu a[title="Compartilhar"], 
+  #menu a[title="Whatsapp"]{
+    border-radius: 0;
+    width: 35px;
+    height: 35px;
+    margin: 1px;
+    border: none;
+    border-radius: 100px;
+  }
+
+  #menu a[title="Curtir"] i, 
+  #menu a[title="Compartilhar"] i, 
+  #menu a[title="Whatsapp"] i{
+    vertical-align: sub;
+  }
+
+  .title-banner{
+    left: 0;
+  }
+
+  .border-bottom-banner{
+    display: none;
+  }
+
+  #id-banners .owl-theme .owl-next,
+  #id-banners .owl-theme .owl-prev{
+    top: 38%;
+    background-size: 60px!important;
+    width: 60px!important;
+    height: 60px!important;
+  }
+
+  #id-menu{
+    background-color: rgba(0,0,0,0)
+  }
+
+  #main-produto h2, #main-fotos h2, #main-galeria-de-videos h2,
+  #main-clientes h2, #main-contato h2, #main-empresa h2, #main-error h2, #main-links h2,
+  #main-noticia h2, #main-noticias h2, #main-parceiros h2, #main-pergunta h2,
+  #main-perguntas-frequentes h2, #main-produtos h2, #main-produto h2, #main-ofertas h2,
+  #main-oferta h2 #main-servicos h2, #main-servico h2, #main-mapa-site h2, #main-video h2,
+  #main-download h2, #main-downloads h2{
+    padding-bottom: 4px;
+  }
+
+  #carousel-servicos .owl-next {
+    right: 0;
+    top: 0;
+    position: relative;
+  }
+
+  #carousel-servicos .owl-prev {
+    left: 0;
+    top: 0;
+    position: relative;
+  }
+
+  #noticia .inf-noticia {
+    width: 78.9%;
+  }
+
+  #id-fotos a i {
+    font-size: 5em;
+    top: 27%;
+    left: 32%;
+  }
+
+  #id-pag-downloads-audios h2{
+    font-size: 2.4em;
+    text-align: center;
+  }
+
+  #id-pag-atend h2 {
+    font-size: 2.4em;
+    text-align: center;
+  }
+
+  #id-hor-atendimento p {
+    text-align: center;
+    font-size: 1.8em;
+  }
+
+  #id-links-parc h2 {
+    text-align: center;
+  }
+
+  #id-clientes .link-br,
+  #id-perguntas .link-br {
+    margin-top: 20px;
+  }
+
+  #id-infempr h2, #id-produtos h2, #id-ofertas h2, #id-servicos h2, #id-clientes h2,
+  #id-galeria-de-fotos h2,#id-pag-downloads-audios h2, #id-pag-atend h2, #id-perg-vid h2, 
+  #id-links-parc h2,#id-redes-sociais h2, #noticia h2 {
+    text-align: center;
+    line-height: 33px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+
+  #lista-links li a {
+    font-size: 1.6em;
+    padding-bottom: 10px;
+  }
+
+  #lista-links li a i {
+    font-size: 1.4em;
+    vertical-align: top;
+  }
+
+  #redes {
+    text-align: center;
+    padding: 0 0 25px 0;
+  }
+
+  #redes li {
+    float: none;
+  }
+
+  #id-redes-sociais a {
+    font-size: 3.1em;
+    width: 104px;
+    text-align: center;
+    margin: 0 10px;
+    border-radius: 10px;
+    background-color: #fff;
+    color: #372e73;
+    -webkit-box-shadow: 0 5px 5px rgba(55, 46, 115, .3);
+    -moz-box-shadow: 0 5px 5px rgba(55, 46, 115, .3);
+    box-shadow: 0 5px 5px rgba(55, 46, 115, .3);
+  }
+
+  #id-cont-footer #id-localizacao {
+    text-align: center;
+  }
+
+  #id-localizacao address {
+    font-size: 1.6em;
+  }
+
+  #id-cont-footer #id-localizacao h2 i {
+    font-size: 3em;
+    display: inline-block;
+    width: 78px;
+    margin-bottom: 25px;
+    border-radius: 100%;
+  }
+
+  #id-cont-footer #id-localizacao h2 span {
+    display: block;
+    font-size: 1.2em;
+  }
+
+  #id-cont-footer .owl-theme .owl-nav {
+    margin-bottom: 30px;
+  }
+
+  #id-cont-footer {
+    padding: 54px 0 8px;
+  }
+
+  #id-cont-footer #id-telefone h2 i {
+    font-size: 2.4em;
+    display: inline-block;
+    width: 63px;
+    text-align: center;
+    margin-bottom: 25px;
+    border-radius: 100%;
+  }
+
+  #id-cont-footer #id-telefone h2 span {
+    display: block;
+    font-size: 1.6em;
+  }
+
+  #id-cont-footer #id-telefone {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  #id-atendimento h3 {
+    font-size: 2.2em;
+    margin-top: 49px;
+    margin-bottom: 39px;
+    text-align: center;
+  }
+
+  #id-atendimento a span {
+    font-size: 3em;
+    top: -30px;
+  }
+
+  #id-atendimento a i {
+    width: 130px;
+    height: 130px;
+  }
+
+  #id-atendimento h3 {
+    margin-top: 54px;
+  }
+
+  #id-cont-footer {
+    padding: 54px 0;
+    z-index: 0;
+  }
+
+  .stl-dropshadow h2 {
+    text-align: center;
+  }
+
+  .stl-dropshadow p {
+  }
+
+  #text-contact span {
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  a[href="#top"] {
+    display: none !important;
+  }
+
+  #assinatura-pa div {
+    padding-top: 10px;
+  }
+
+  #id-localizacao .empty {
+    padding-top: 174px;
+    padding-bottom: 30px;
+  }
+
+  #id-telefone .empty {
+    background: none;
+    padding-top: 124px;
+    padding-bottom: 124px;
+    margin-bottom: 0;
+  }
+
+  #id-cont-footer .contet-footer #id-localizacao .owl-stage-outer {
+    min-height: 354px;
+  }
+
+  #id-cont-footer .contet-footer #id-telefone .owl-stage-outer {
+    height: 278px;
+  }
+
+  #id-cont-footer {
+    padding-bottom: 0px;
+  }
+
+  .menu-categ {
+    padding: 0;
+  }
+
+  #main-produto, #main-fotos, #main-galeria-de-videos, #main-clientes,
+  #main-contato, #main-empresa, #main-error, #main-links, #main-noticia, #main-noticias,
+  #main-parceiros, #main-pergunta, #main-perguntas-frequentes, #main-produtos,
+  #main-produto, #main-ofertas, #main-oferta, #main-servicos, #main-servico, #main-mapa-site, #main-video,
+  #main-download, #main-downloads{
+    padding-top: 0;
+  }
+
+  #main-produto h2, #main-fotos h2, #main-galeria-de-videos h2,
+  #main-clientes h2, #main-contato h2, #main-empresa h2, #main-error h2, #main-links h2,
+  #main-noticia h2, #main-noticias h2, #main-parceiros h2, #main-pergunta h2,
+  #main-perguntas-frequentes h2, #main-produtos h2, #main-produto h2, #main-ofertas h2
+  #main-oferta h2, #main-servicos h2, #main-servico h2, #main-mapa-site h2, #main-video h2,
+  #main-download h2, #main-downloads h2{
+    padding-top: 0;
+    margin-bottom: 0;
+  }
+
+  #text-contact {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #text-contact > span {
+    font-size: 1.6em;
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+
+  .stl-sub span.data{
+    text-align: center;
+  }
+
+  #main-clientes #id-pagparceiros div .img-center {
+    margin-bottom: 0;
+  }
+
+  .title-banner {
+    position: relative;
+    padding: 13px;
+    right: 0;
+    margin-top: 10px;
+    text-align: center;
+    bottom: 0;
+    margin-bottom: 10px;
+  }
+
+  .owl-carousel.owl-drag .owl-item {
+    position: relative;
+  }
+
+  #id-banners .owl-theme .owl-dots {
+    top: 0;
+    margin-bottom: 20px;
+    display: none;
+  }
+
+  #id-banners .owl-theme .owl-dots .owl-dot.active span,
+  #id-banners .owl-theme .owl-dots .owl-dot span {
+    border: 3px #372e73 solid;
+  }
+
+  #id-infs {
+    padding-top: 0;
+    padding-bottom: 25px;
+  }
+
+  #logo img {
+    width: auto;
+    float: none;
+  }
+
+  #id-cont-footer #id-telefone h2 {
+    margin-bottom: 18px;
+  }
+
+  #id-logoinf {
+    padding-bottom: 0;
+  }
+
+  .stl-list-downloads img{
+    max-width: 75%;
+  }
+
+  .stl-list-audios{
+    text-align: center;
+  }
+
+  .stl-sub,
+  p.more{
+    text-align: center;
+  }
+
+  .morelink{
+    margin: 0 auto;
+  }
+
+  .stl-sub .stl-right{
+    float: none;
+  }
+
+  #carousel-clientes a {
+    background-color: #5b5295;
+  }
+
+  #carousel-produtos .owl-carousel a {
+    background-color: #5b5295;
+  }
+
+  #carousel-servicos .owl-carousel a {
+    background-image: -webkit-linear-gradient(bottom, #d5d0fb 1%, #fff);
+    background-image: -moz-linear-gradient(bottom, #d5d0fb 1%, #fff);
+    background-image: -o-linear-gradient(bottom, #d5d0fb 1%, #fff);
+    background-image: -ms-linear-gradient(bottom, #d5d0fb 1%, #fff);
+    background-image: linear-gradient(to top, #d5d0fb 1%, #fff);
+  }
+
+  #atendimento .dec-box-footer, 
+  #contato-footer .dec-box-footer,
+  #pagamento .dec-box-footer, 
+  #redes-footer .dec-box-footer{
+    min-width: 100%;
+    margin-bottom: 15px;
+    min-height: auto;
+    padding: 15px 7px 23px;
+    border-radius: 10px;
+  }
+
+  .dec-subbox-footer{
+    display: none;
+  }
+
+  #atendimento-pagamento,
+  #contato-redes{
+    margin-bottom: 0;
+  }
+
+  #atendimento p,
+  #lista-cards ul,
+  #list-telefones-footer ul,
+  #list-redes ul{
+    padding-top: 0;
+    margin-top: 0;
+  }
+
+  .title-footer{
+    padding: 15px 0;
+  }
+
+  a[href="#top"] {
+    display: none !important;
+  }
+
+  #assinatura-pa div {
+    padding-top: 10px;
+  }
+
+  #copy-assinatura span{
+    display: block;
+    line-height: 30px;
+    padding-bottom: 10px;
+  }
+
+  #assinaturas{
+    display: block;
+    float: none;
+    padding-bottom: 16px;
+  }
+
+  .assinatura-pa-desktop,
+  .assinatura-web-desktop{
+    display: none!important;
+  }
+
+  .assinatura-pa-mobile,
+  .assinatura-web-mobile{
+    display: inline-block!important;
+  }
+
+  #contato-redes {
+    margin-top: 0;
+  }
+
+  #equipamentos-img img{
+    margin: -28% auto 0;
+  }
+
+  #box-superior-atendimento{
+    margin: 0 auto 26%;
+    width: 84%;
+    float: none;
+  }
+
+  #equipamentos{
+    background-image: -webkit-linear-gradient(bottom, #dddddd, #fff);
+    background-image: -moz-linear-gradient(bottom, #dddddd, #fff);
+    background-image: -o-linear-gradient(bottom, #dddddd, #fff);
+    background-image: -ms-linear-gradient(bottom, #dddddd, #fff);
+    background-image: linear-gradient(to top, #dddddd, #fff);
+  }
+
+  #equipamentos h3{
+    width: 90%;
+    margin: 20px auto 50px;
+  }
+
+  #fotosList {
+  }
+
+  #text-contact .accordion-group h2,
+  #telefones h2 {
+    margin-bottom: 0px;
+  }
+
+  #telefones h2{
+    padding: 10px;
+  }
+
+  .title-banner h2, .title-banner a h2{
+    padding: 10px;
+  }
+
+  #logo img{
+    padding: 42px 0;
+  }
+
+  .listagem-personalizada .item .descrition-link h3{
+    padding-left: 10px;
+  }
+
+  #list-telefones-footer ul li{
+    font-size: 1.4em;
+  }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+  #id-pagperg-freq .stl-dropshadow,
+  #main-video .stl-dropshadow,
+  #main-links .stl-dropshadow,
+  #main-fotos .stl-dropshadow,
+  #id-pgnoticias .stl-dropshadow,
+  #main-noticia .stl-dropshadow,
+  #main-servicos .stl-dropshadow,
+  #main-produtos .stl-dropshadow,
+  #main-ofertas .stl-dropshadow {
+    padding: 20px 15px;
+  }
+
+  .title-banner h2, 
+  .title-banner a h2{
+    font-size: 1.8em;
+  }
+
+  #box-superior-atendimento{
+    width: calc(100% - 50px);
+  }
+
+  #videos-index .stl-link-default{
+    display: block;
+    float: none;
+    text-align: center;
+  }
+
+  #videos-index{
+    padding-bottom: 50px;
+  }
+
+  #main-produtos .stl-dropshadow,
+  #main-servicos .stl-dropshadow{
+    text-align: center;
+    padding: 45px 20px 30px;
+  }
+
+  #main-produtos .stl-dropshadow p,
+  #main-servicos .stl-dropshadow p{
+    text-align: center;
+  }
+
+  #endereco .logo-footer img{
+    margin: 0 auto;  
+    padding: 15px 0 23px;
+  }
+
+  #list-telefones-footer ul li {
+    font-size: 1.8em;
+  }
+
+  #list-telefones-footer ul span{
+    display: block;
+    margin-top: -10px;
+    margin-bottom: 18px;
+  }
+
+}
+
+@media only screen and (max-width: 650px) {
+
+  #atendimento h3 {
+    font-size: 2.2em;
+  }
+}
+
+@media only screen and (max-width: 570px) {
+  #id-hor-atendimento p {
+    text-align: center;
+  }
+
+  #id-perguntas .accordion-heading a {
+    text-align: center;
+    font-size: 1.6em;
+    line-height: 1.3em;
+    padding: 20px;
+  }
+
+  #id-perguntas .accordion-heading a i {
+    font-size: 1.8em;
+    display: block;
+    text-align: center;
+    color: #5b5295;
+  }
+
+  #id-cont-footer #id-localizacao h2 span {
+    font-size: 1.6em;
+  }
+
+  #text-contact > span {
+  }
+
+
+  .menu__link,
+  .menu-resp .dropdown-sub > li > a {
+    font-size: 1.2em;
+  }
+
+  .stl-list-downloads img{
+    max-width: 100%;
+  }
+
+  #box-superior-atendimento{
+    margin: 0 auto 46%;
+  }
+
+  #equipamentos-img img{
+    margin: -46% auto 0;
+  }
+
+  #equipamentos h3{
+    line-height: 32px;
+  }
+
+  #copy-assinatura span{
+    line-height: 20px;
+    margin: 0;
+    padding: 7px 0;
+  }
+
+}
+
+@media only screen and (max-width: 510px) {
+
+  #videos .col-xs-6{
+    width: 100%;
+  }
+
+  #empresa .std{
+    text-align: center;
+  }
+
+  #servicosList .owl-nav [class*=owl-], 
+  #produtosList .owl-nav [class*=owl-]{
+    width: 40px;
+    height: 40px;
+    background-size: 40px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+
+  /*PÁGINA CONTATO*/////////////////////////////////////////////////////////////
+
+  #text-contact span {
+    font-size: 1.6em;
+  }
+
+  #text-contact .accordion-group .accordion-inner span {
+    font-size: 1.2em !important;
+  }
+
+  #text-contact .accordion-group .accordion-inner a {
+    font-size: 1.2em !important;
+  }
+
+  #id-pagprodutos a,
+  #id-pagservicos a,
+  #links-galerias li a{
+    width: 100%;
+  }
+
+  #main-produtos .stl-dropshadow .col-xs-8,
+  #main-servicos .stl-dropshadow .col-xs-8{
+    width: 100%;
+  }
+
+  #main-servicos .stl-dropshadow .col-xs-offset-2,
+  #main-produtos .stl-dropshadow .col-xs-offset-2{
+    margin-left: 0;
+  }
+
+}
+
+@media only screen and (max-width: 420px) {
+  .g-recaptcha {
+    transform: scale(0.8);
+    transform-origin: 0 0;
+  }
+
+  #fotosList a{
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  #id-infempr h2,
+  #id-produtos h2,
+  #id-ofertas h2,
+  #id-servicos h2,
+  #id-clientes h2,
+  #id-galeria-de-fotos h2,
+  #id-galeria-de-fotos h2,
+  #id-pag-downloads-audios h2,
+  #id-pag-atend h2,
+  #id-perg-vid h2,
+  #id-links-parc h2,
+  #noticia h2 {
+    font-size: 1.8em;
+    padding: 0;
+  }
+
+  #id-atendimento a i {
+    display: none;
+  }
+
+  #main-downloads .stl-audio{
+    width: 100%;
+  }
+
+  #fotosList{
+    padding: 0 20px;
+  }
+
+}
+
+@media only screen and (max-width: 320px) {
+
+  #id-empresa {
+    padding-bottom: 20px;
+  }
+
+  #id-hor-atendimento p {
+    font-size: 1.6em;
+  }
+
+  #id-cont-footer #id-localizacao h2 span {
+    font-size: 1em;
+  }
+
+  #id-cont-footer #id-telefone h2 span {
+    font-size: 1.6em;
+  }
+
+  #id-cont-footer #id-telefone ul li {
+    font-size: 1.8em;
+  }
+
+  #id-atendimento h3 {
+    font-size: 2.2em;
+  }
+
+  .logo__link {
+    font-size: 0.69em;
+  }
+
+}
